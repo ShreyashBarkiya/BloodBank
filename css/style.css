@@ -62,36 +62,36 @@ body {
 	letter-spacing:0px;
 }
 .nav li.active a {
-	text-shadow: 0 1px 0 #EBEBEB;
+	text-shadow: 0 1px 0 #fff;
 	color:#D13949;
-	background: #E5E5E5;
-	background: -moz-linear-gradient(top, #E5E5E5 0%, #C4C4C4 100%);
-	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#E5E5E5), color-stop(100%,#C4C4C4));
-	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#E5E5E5', endColorstr='#C4C4C4',GradientType=0 );
+	background: #fff;
+	background: -moz-linear-gradient(top, #fff 0%, #fff 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#fff), color-stop(100%,#fff));
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fff', endColorstr='#fff',GradientType=0 );
 	-moz-border-radius:5px 5px 0 0;
 	-webkit-border-radius:5px 5px 0 0;
 	border-radius:5px 5px 0 0;
-	box-shadow: inset 0px -2px 4px #9C9797;
-	-webkit-box-shadow: inset 0px -2px 4px #9C9797;
-	-moz-box-shadow: inset 0px -2px 4px #9C9797;
-	-o-box-shadow: inset 0px -2px 4px #9C9797;
+	box-shadow: inset 0px -2px 4px #fff;
+	-webkit-box-shadow: inset 0px -2px 4px #fff;
+	-moz-box-shadow: inset 0px -2px 4px #fff;
+	-o-box-shadow: inset 0px -2px 4px #fff;
 }
 .nav li a:hover {
-	text-shadow: 0 1px 0 #EBEBEB;
+	text-shadow: 0 1px 0 #fff;
 	-webkit-transition: .2s all linear;
 	-moz-transition: .2s all linear;
 	-o-transition: .2s all linear;
 	transition: .2s all linear;
 	color:#D13949;
-	background: #E5E5E5;
-	background: -moz-linear-gradient(top, #E5E5E5 0%, #C4C4C4 100%);
+	background: #fff;
+	background: -moz-linear-gradient(top, #fff 0%, #fff 100%);
 	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#E5E5E5), color-stop(100%,#C4C4C4));
-	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#E5E5E5', endColorstr='#C4C4C4',GradientType=0 );
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fff', endColorstr='#fff',GradientType=0 );
 	-moz-border-radius:5px 5px 0 0;
 	-webkit-border-radius:5px 5px 0 0;
 	border-radius:5px 5px 0 0;
-	box-shadow: inset 0px -2px 4px #9C9797;
-	-webkit-box-shadow: inset 0px -2px 4px #9C9797;
+	box-shadow: inset 0px -2px 4px #fff;
+	-webkit-box-shadow: inset 0px -2px 4px #fff;
 	-moz-box-shadow: inset 0px -2px 4px #9C9797;
 	-o-box-shadow: inset 0px -2px 4px #9C9797;
 }
@@ -118,7 +118,7 @@ body {
 	font-size: 2.4em;
 	color: #BA3341;
 	text-transform: uppercase;
-	text-shadow: 0 1px 0 #EBEBEB;
+	text-shadow: 0 1px 0 #fff;
 	letter-spacing: -1px;
 	line-height: 1.5em;
 }
@@ -127,7 +127,7 @@ body {
 	font-size: 2em;
 	color: #805752;
 	text-transform: capitalize;
-	text-shadow: 0 1px 0 #EBEBEB;
+	text-shadow: 0 1px 0 #fff;
 	line-height: 1.5em;
 }
 .header-para p{
@@ -139,14 +139,14 @@ body {
 /*slider*/
 .s_bg{
 	background: url('../images/s_bg.png');	
-	border-top:1px solid #ffffff;
+	border-top:1px solid #fff;
 }
 .main_cont{
 	padding:4% 0;
 }
 .slider {
 	padding: 20px;
-	background: #EEE6D7;
+	background: #fff;
 	margin-bottom: -75px;
 	z-index: 999;
 	position: relative;
@@ -363,7 +363,7 @@ body {
 }
 /*---*/
 .ftr-bg{
-	background: #E9DCC9;
+	background: #fff;
 	border-top: 1px solid rgba(214, 195, 167, 0.34);
 }
 .footer{
@@ -474,7 +474,7 @@ body {
 	-moz-border-radius: 50%;
 	-o-border-radius: 50%;
 	padding: 5px;
-	background: #E8CFBF;
+	background: #fff;
 	box-shadow: 0px 12px 14px -14px #121D11;
 	-webkit-box-shadow: 0px 12px 14px -14px #121D11;
 	-moz-box-shadow: 0px 12px 14px -14px #121D11;
@@ -576,7 +576,7 @@ body {
 	-moz-border-radius: 5px;
 	-o-border-radius: 5px;
 	padding: 5px;
-	background: #E8CFBF;
+	background: #fff;
 	box-shadow: 0px 12px 14px -14px #121D11;
 	-webkit-box-shadow: 0px 12px 14px -14px #121D11;
 	-moz-box-shadow: 0px 12px 14px -14px #121D11;
@@ -824,7 +824,7 @@ x:-o-prefocus, .lb-overlay img {
 }
 .map{
 	margin-top: 5%;
-	border:1px solid #C7C7C7;
+	border:1px solid #fff;
 	margin-bottom:15px;
 }
 /*details*/
@@ -927,7 +927,7 @@ x:-o-prefocus, .lb-overlay img {
 	}
 	.lb-album li {
 		width: 45.333%;
-		margin: 2.333%%;
+		margin: 2.333%;
 	}
 	.lb-album li:first-child {
 		margin-left:2.333%;
@@ -952,7 +952,7 @@ x:-o-prefocus, .lb-overlay img {
 	}
 	.lb-album li {
 		width: 98.333%;
-		margin: 1.333%%;
+		margin: 1.333%;
 	}
 	.f_nav li a {
 		padding: 8px 6px;

@@ -64,10 +64,10 @@ body {
 .nav li.active a {
 	text-shadow: 0 1px 0 #EBEBEB;
 	color:#D13949;
-	background: #E5E5E5;
-	background: -moz-linear-gradient(top, #E5E5E5 0%, #C4C4C4 100%);
-	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#E5E5E5), color-stop(100%,#C4C4C4));
-	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#E5E5E5', endColorstr='#C4C4C4',GradientType=0 );
+	background: #fff;
+	background: -moz-lifffear-gradient(top, #fff 0%, #fff 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#fff), color-stop(100%,#fff));
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fff', endColorstr='#fff',GradientType=0 );
 	-moz-border-radius:5px 5px 0 0;
 	-webkit-border-radius:5px 5px 0 0;
 	border-radius:5px 5px 0 0;
@@ -83,10 +83,10 @@ body {
 	-o-transition: .2s all linear;
 	transition: .2s all linear;
 	color:#D13949;
-	background: #E5E5E5;
-	background: -moz-linear-gradient(top, #E5E5E5 0%, #C4C4C4 100%);
-	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#E5E5E5), color-stop(100%,#C4C4C4));
-	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#E5E5E5', endColorstr='#C4C4C4',GradientType=0 );
+	background: #fff;
+	background: -moz-linear-gradient(top, #fff 0%, #fff 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#fff), color-stop(100%,#fff));
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fff', endColorstr='#fff',GradientType=0 );
 	-moz-border-radius:5px 5px 0 0;
 	-webkit-border-radius:5px 5px 0 0;
 	border-radius:5px 5px 0 0;
@@ -118,7 +118,7 @@ body {
 	font-size: 2.4em;
 	color: #BA3341;
 	text-transform: uppercase;
-	text-shadow: 0 1px 0 #EBEBEB;
+	text-shadow: 0 1px 0 #fff;
 	letter-spacing: -1px;
 	line-height: 1.5em;
 }
@@ -127,7 +127,7 @@ body {
 	font-size: 2em;
 	color: #805752;
 	text-transform: capitalize;
-	text-shadow: 0 1px 0 #EBEBEB;
+	text-shadow: 0 1px 0 #fff;
 	line-height: 1.5em;
 }
 .header-para p{
@@ -146,7 +146,7 @@ body {
 }
 .slider {
 	padding: 20px;
-	background: #EEE6D7;
+	background: #fff;
 	margin-bottom: -75px;
 	z-index: 999;
 	position: relative;
