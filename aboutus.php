@@ -67,11 +67,11 @@
 									We remind every visitor that we have the empowerment to save lives and let’s do that – right now, right here. If you are eligible for blood donation, please register yourself as a blood donor now!</p>
 								<p class="top">We also take this opportunity to thank our whole team for all your ideas, commitment and hard-ship in making this dream a reality. We would also like to thank our friends and well-wishers for all your support and encouragement throughout this project. It is now reasonably safe to say that together we have made this society a slightly better and safer place to live.</p>
 								<p class="top">Thank you and Happy Blood donating!</p>
-								<p class="top"> Abu Sithik</p>
-								<p>Heman Duraiswamy</p>
-								<p>Surendar Ram</p>
-								<p class="top">Promoters,</p>
-								<p>Blood Bank India.</p>
+								<p class="top" style="font-weight:500"><b> Raghav Bhandari</b></p>
+								<p><b>Sambhav Kanugo</b> </p>
+								<p><b>Shreyash Barkiya</b></p>
+								<p><b>Priyanshu Bairagi</b></p>
+								
 
 							</div>
 							<div class="sidebar">
@@ -102,7 +102,7 @@
 					<div class="f_nav">
 						<ul>
 							<li class="active"><a href="index.php">Home</a></li>
-							<li><a href="donar.php">Donor</a></li>
+							<li><a href="registration.php">Donor Registration</a></li>
 							<li><a href="login.php">log In</a></li>
 							<li><a href="aboutus.php">About</a></li>
 							<li><a href="contact.php">Contact Us</a></li>

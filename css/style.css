@@ -970,3 +970,7 @@ x:-o-prefocus, .lb-overlay img {
 		margin: 16px 0 2px;
 	}
 }
+
+input{
+	border-radius : 20px !important; 
+}

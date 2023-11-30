@@ -92,7 +92,7 @@
                                                     <td style="font-size:24px; font-weight:bold; text-shadow:1px 1px 6px browm; padding-left:50px; padding-top:10px; padding-bottom:10px; color:#925959"><?php echo $data[1]; ?></td>
                                                 </tr>
                                                 <tr>
-                                                    <td align="center">
+                                                    <td style="text-align:centre;">
                                                         <a href="Admin/pic/<?php echo $data[5] ?>" data-lightbox="image-1"> <img src="Admin/pic/<?php echo $data[5] ?>" height="250px" width="460px" style="margin:auto; padding-left:20px" /></a>
                                                     </td>
                                                 </tr>
@@ -112,8 +112,8 @@
 
 
                                                 <tr>
-                                                    <td class="title" style="vertical-align:middle">Organised By:<?php echo $data[2]; ?></td>
-                                                    <td align="left" width="50%"></td>
+                                                    <td class="title" style="vertical-align:middle" text-align: right;>Organised By:<?php echo $data[2]; ?></td>
+                                                    <td style="" width="50%"></td>
                                                 </tr>
                                                 <tr>
                                                     <td>&nbsp;</td>
@@ -177,7 +177,7 @@
                     <div class="f_nav">
                         <ul>
                             <li class="active"><a href="index.php">Home</a></li>
-                            <li><a href="donar.php">Donor</a></li>
+                            <li><a href="registration.php">Donor Registration </a></li>
                             <li><a href="login.php">log In</a></li>
                             <li><a href="aboutus.php">About</a></li>
                             <li><a href="contact.php">Contact Us</a></li>

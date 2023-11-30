@@ -242,3 +242,8 @@
 	font-size: 14px;
 	text-shadow: 1px 1px 6px black;
 }
+
+input{
+	border-radius : 20px !important; 
+}
+
